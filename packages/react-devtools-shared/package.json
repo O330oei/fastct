@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.0.0",
-    "@reach/menu-button": "^0.1.17",
+    "@reach/menu-button": "^0.8.6",
     "@reach/tooltip": "^0.2.2",
     "clipboard-js": "^0.3.6",
     "events": "^3.0.0",
